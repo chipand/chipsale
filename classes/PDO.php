@@ -1,14 +1,14 @@
 <?
 //имя базы
-$dbn = 'cl56391_telegram';
+$dbn = 'id16243304_chipmarket_bd';
 //имя сервера
-$dbh = 'localhost';
+$dbh = 'databases.000webhost.com';
 //порт
 $dbr = '3306';
 //имя пользователя
-$dbu = 'cl56391_telegram';
+$dbu = 'id16243304_chipandd_u';
 //пароль
-$dbp = 'qweqwe1233';
+$dbp = 'Passwordpassword-228';
 
   ob_start();
   session_name('sid');
